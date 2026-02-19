@@ -1,0 +1,11 @@
+# Rust build outputs (anywhere)
+target/
+**/target/
+
+# Cargo local config (if you really want to ignore it everywhere)
+.cargo/
+**/.cargo/
+.idea/
+**/.idea/
+.vscode/
+**/.vscode/
